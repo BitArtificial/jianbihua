@@ -7,6 +7,9 @@
 本代码使用了多线程，高效，快速
 没有用异步，因为没有必要
 
+只用了requests和BeautifulSoup
+
+
 ![image](https://github.com/BitArtificial/jianbihua/blob/master/1.png)
 
 
